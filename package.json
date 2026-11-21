@@ -1,0 +1,13 @@
+{
+  "name": "news-lens",
+  "version": "1.0.0",
+  "description": "뉴스 렌즈 - 여러 언론의 시선으로 보는 출퇴근길 뉴스 비교 에이전트",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

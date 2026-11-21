@@ -1,0 +1,15 @@
+{
+  "name": "뉴스 렌즈",
+  "short_name": "뉴스 렌즈",
+  "description": "간밤 이슈를 여러 언론의 시선으로 한 번에",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F5F2",
+  "theme_color": "#0E6B43",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
